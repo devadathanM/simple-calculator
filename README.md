@@ -1,8 +1,8 @@
 # simple-calculator
 Simple calculator using python
 
-Installation
+Installation \n
 $git clone https://github.com/devadathanM/simple-calculator.git
-$ls
-$chmod +x *
+$ls  \n
+$chmod +x * \n
 python2 cal. py
